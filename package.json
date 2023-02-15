@@ -26,6 +26,7 @@
   "description": "",
   "devDependencies": {
     "@babel/register": "^7.18.9",
+    "babel-cli": "^6.26.0",
     "nodemon": "^2.0.20"
   }
 }
